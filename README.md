@@ -1,2 +1,2 @@
-# v5zhu-quartz
-使用quartz构建的简单定时任务
+# v5zhu-spring-boot
+使用spring-boot构建的简单web服务
