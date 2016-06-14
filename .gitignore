@@ -6,3 +6,7 @@
 
 /target/
 *.iml
+.gitignore
+README.md
+pom.xml
+src/
